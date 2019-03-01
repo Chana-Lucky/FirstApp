@@ -14,7 +14,7 @@ namespace DatingApp.API.Model
         public string KnownAs { get; set; }
         public DateTime Created { get; set; }
         public DateTime Lastactive { get; set; }
-        public string Instroduction { get; set; }
+        public string Introduction { get; set; }
         public string LookingFor { get; set; }
         public string Interests { get; set; }
         public string City { get; set; }
